@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/butterfly.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/me.png"
 
 ##############################
 # Color the browser elements #
@@ -165,7 +165,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: geoffpurdy
 keybase-in-social: True
 keybase-in-footer: True
 
