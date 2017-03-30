@@ -30,9 +30,9 @@ force-https: True
 
 lang: "en"
 author: "Geoff Purdy"
-title: "{ Geoff Purdy }"
+title: "(str \"Geoff\" \" \" \"Purdy\")"
 description: "Blog and website of Geoff Purdy, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "devops, linux, clojure, deep learning, gpgpu"
 favicon: "/img/favicon.ico"
 
 ################
