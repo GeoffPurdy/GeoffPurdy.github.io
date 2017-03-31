@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Geoff Purdy"
 title: "{ Geoff Purdy }"
-description: "Blog and website of Geoff Purdy, blogging mainly for tech. Opinions expressed are mine."
+description: "Blog and website of Geoff Purdy.  Opnions expressed are mine."
 keywords: "devops, linux, clojure, deep learning, gpgpu"
 favicon: "/img/favicon.ico"
 
@@ -102,8 +102,8 @@ reddit-share: True
 google-plus-share: True
 tumblr-share: True
 pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+pocket-share: False
+vkontakte-share: False
 
 disqus-shortname: "geoffpurdy"
 
@@ -163,8 +163,8 @@ email: "geoff.purdy@yahoo.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Geoff Purdy is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb: "Geoff Purdy is a husband, father and techie. He lives in the Bull City, where he works in DevOps. In his spare time, Geoff likes functional programming."
+author_blurb_image: "/img/author.jpg"
 
 ##################
 # Social Buttons #
