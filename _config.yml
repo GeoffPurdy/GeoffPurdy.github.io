@@ -55,10 +55,13 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Simplicity is prerequisite for reliability. <em>-- Edsger Dijkstra</em>"
+  - text: "Programming is understanding. <em>-- Kristen Nygaard</em>"
+  - text: "If you love something you can put beauty into it. <em>-- Donald Knuth</em>"
+  - text: "A ship in port is safe, but that's not what ships are built for. -- <em>Grace Hopper</em>"
+  - text: "To iterate is human, to recurse divine. <em>-- L. Peter Deutsch</em>" 
 
-me-img: "/img/me.png"
+me-img: "/img/me-bw.gif"
 
 ##############################
 # Color the browser elements #
