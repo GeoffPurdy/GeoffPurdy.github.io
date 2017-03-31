@@ -138,7 +138,7 @@ events:
   - image: "/img/timeline/gsk.png"
     date: "November 1997 - May 2001"
     description: "Decoding the human genome."
-  - image: "/img/timeine/uncmed.jpg"
+  - image: "/img/timeline/uncmed.jpg"
     date: "August 1995 - November 1997"
     description: "Research Technician.  Yeah science!"
   - image: "/img/timeline/niehs.png"
