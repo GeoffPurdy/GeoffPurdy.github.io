@@ -58,9 +58,9 @@ lines: # You can add HTML Tags in the Text
   - text: "Simplicity is prerequisite for reliability. <em>-- Edsger Dijkstra</em>"
   - text: "Programming is understanding. <em>-- Kristen Nygaard</em>"
   - text: "If you love something you can put beauty into it. <em>-- Donald Knuth</em>"
-  - text: "A ship in port is safe, but that's not what ships are built for. -- <em>Grace Hopper</em>"
+  - text: "A ship in port is safe, but that's not what ships are built for. <em>-- Grace Hopper</em>"
   - text: "To iterate is human, to recurse divine. <em>-- L. Peter Deutsch</em>" 
-
+  - text: "There is nothing so useless as doing efficiently that which should not be done at all. <em> -- Peter Drucker</em>"
 me-img: "/img/me-bw.gif"
 
 ##############################
